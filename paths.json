@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/cb-site/:/",
-    "/content/cb-site/configuration:/.helix/config.json",
-    "/content/cb-site/metadata:/metadata.json"
+    "/content/cb-site1/:/",
+    "/content/cb-site1/configuration:/.helix/config.json",
+    "/content/cb-site1/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/cb-site/"
+    "/content/cb-site1/"
   ]
 }
